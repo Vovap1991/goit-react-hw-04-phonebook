@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+// import React, { Component } from 'react';
 
-import { ContactForm } from './Form/Form';
-import { Application, FormTitle } from './App.styled';
-import { ContactList } from './ContactList/ContactList';
-import { Filter } from './Filter/Filter';
+// import { ContactForm } from './Form/Form';
+// import { Application, FormTitle } from './App.styled';
+// import { ContactList } from './ContactList/ContactList';
+// import { Filter } from './Filter/Filter';
 
 // export class App extends Component {
   //   state = {
